@@ -35,9 +35,7 @@ Proxy czujnika przyspieszenia IIO do urządzenia wejściowego.
 Summary:	DBus API documentation for iio-sensor-proxy service
 Summary(pl.UTF-8):	Dokumentacja API DBus usługi iio-sensor-proxy
 Group:		Documentation
-%if "%{_rpmversion}" >= "4.6"
 BuildArch:	noarch
-%endif
 
 %description apidocs
 DBus API documentation for iio-sensor-proxy service.
