@@ -2,7 +2,7 @@ Summary:	IIO accelerometer sensor to input device proxy
 Summary(pl.UTF-8):	Proxy czujnika przyspieszenia IIO do urządzenia wejściowego
 Name:		iio-sensor-proxy
 Version:	3.0
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Applications/System
 #Source0Download: https://gitlab.freedesktop.org/hadess/iio-sensor-proxy/-/tags
